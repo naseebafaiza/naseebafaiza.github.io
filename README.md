@@ -1,5 +1,11 @@
-# naseebafaiza.github.io
-# Naseeba Faiza – Software Engineer (New Graduate)
+# Naseeba Faiza
+# Full-Stack Software Engineer
+
+- [About Me](./about.md)
+- [Resume](./resume.md)
+- [Projects](./projects.md)
+- [Contact Me](./contact.md)
+
 
 - 📞 **Contact:** 347-401-8180
 - 📧 **Email:** naseebafaiza@hotmail.com  
