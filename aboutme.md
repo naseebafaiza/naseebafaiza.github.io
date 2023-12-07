@@ -8,45 +8,45 @@
 
 ## Music
 - Mac Miller
-[![Mac](/assets/img/macmiller.png)]()
+[![Mac](/assets/img/macmiller.png)](https://open.spotify.com/user/95qz5y17ui6kzz01xw3nigz16)
 - The Internet
-[![Internet](/assets/img/internet.jpg)]()
+[![Internet](/assets/img/internet.jpg)](https://open.spotify.com/user/95qz5y17ui6kzz01xw3nigz16)
 - Erykah Badu
-[![Erykah](/assets/img/erk.jpg)]()
+[![Erykah](/assets/img/erk.jpg)](https://open.spotify.com/user/95qz5y17ui6kzz01xw3nigz16)
 - Bad Bunny
-[![Benito](/assets/img/badbunny.webp)]()
+[![Benito](/assets/img/badbunny.webp)](https://open.spotify.com/user/95qz5y17ui6kzz01xw3nigz16)
 - Isaiah Reshad
-[![Isaiah](/assets/img/isr.jpg)]()
+[![Isaiah](/assets/img/isr.jpg)](https://open.spotify.com/user/95qz5y17ui6kzz01xw3nigz16)
 
 ## Work Photos
 
 ### MV Video Systems Team
 - San Francisco, CA
-[![MV](/assets/img/VideoSystemsTeam.jpeg)]()
+[![MV](/assets/img/VideoSystemsTeam.jpeg)](https://meraki.cisco.com/products/smart-cameras/)
 
 ### z/OS Support Team
 - Poughkeepsie, NY
-[![z](/assets/img/IBM.JPG)]()
+[![z](/assets/img/IBM.JPG)](https://www.linkedin.com/in/naseeba-faiza-bbb0871b0/)
 
 ## Family, Friends, and Pets
 
 ### Family
 - This was so long ago
-[![fam](/assets/img/fam.JPG)]()
+[![fam](/assets/img/fam.JPG)](https://cats.com)
 
 ### Brunch in NY
 - On our way to Boston
-[![friends](/assets/img/brunch.JPG)]()
+[![friends](/assets/img/brunch.JPG)](https://cats.com)
 
 ## Favorite Sports Teams
 
 ### Premier League
 - Manchester United
-[![Utd](/assets/img/utd.png)]()
+[![Utd](/assets/img/utd.png)](https://cats.com)
 
 ### NBA
 - Miami Heat
-[![MIA](/assets/img/MIA.png)]()
+[![MIA](/assets/img/MIA.png)](https://cats.com)
 
 ### Bangladesh Cricket Team
-[![BD](/assets/img/cricket.jpg)]()
+[![BD](/assets/img/cricket.jpg)](https://cats.com)
