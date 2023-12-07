@@ -18,20 +18,20 @@
 # Commands Playlist - z/OS Debugging
 ## IBM
 - Built an internal tool for sharing important IPCS commands for z/OS debugging.
-[![z/OS](/assets/img/IBM_logo.svg.png)](https://www.ibm.com/docs/en/zos/2.2.0?topic=tools-customizing-ipcs-interface)
+[![z/OS](/assets/img/IBM_log.png)](https://www.ibm.com/docs/en/zos/2.2.0?topic=tools-customizing-ipcs-interface)
 
 # WebIPCS - z/OS Debugging
 ## IBM
 - Used React.js/Redux, Node.js, JSON, Flask, CouchDB, and IBM Carbon Design Systems to develop both the
 frontend and backend of WebIPCS, a modern web application to ease debugging and modernize the existing legacy
 application IPCS.
-[![z/OS](/assets/img/IBM_logo.svg.png)](https://www.ibm.com/products/zos)
+[![z/OS](/assets/img/IBM_System_z10.jpg)](https://www.ibm.com/products/zos)
 # Data Science Projects
 
 ## Miracle Herb Debunking Hypothesis Testing 
 ### Statistical Inferences for Data Science
 - Interpreted statistical results, drawing conclusions about a herb's impact on height and its efficacy
-[![Hypothesis Testing](/assets/img/Htesting.svg.png)](https://github.com/naseebafaiza/miracle-herb)
+[![Hypothesis Testing](/assets/img/Htesting.png)](https://github.com/naseebafaiza/miracle-herb)
 
 # Technical Communications Projects
 
@@ -45,4 +45,4 @@ application IPCS.
 
 ## Press Release
 ### SBU Pre-Optometry club
-[![Pre-Optometry](/assets/img/preopt.png)](https://github.com/naseebafaiza/naseebafaiza.github.io/raw/main/press.pdf)
+[![Pre-Optometry](/assets/img/preopt.jpeg)](https://github.com/naseebafaiza/naseebafaiza.github.io/raw/main/press.pdf)
