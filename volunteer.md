@@ -14,4 +14,4 @@
 ## Future Goals
 ### Fundraising
 - We are hiring! Check out our LinkedIn page.
-[![Dog](/assets/img/feeding.png)](https://www.linkedin.com/company/hands-for-paws-dhaka)
+[![Dog](/assets/img/feeding.jpg)](https://www.linkedin.com/company/hands-for-paws-dhaka)

@@ -1,6 +1,6 @@
 # Full-Stack Software Engineer
 
-Hi, I'm Naseeba! I am a full-stack software engineer with a strong interest in data science. I am currently a senior studying computer science in Stony Brook University.
+Hi, welcome to my website! My name is Naseeba ('lucky' in Arabic) and I am originally from Dhaka, Bangladesh, but I moved to Queens, New York when I was 19! I am a full-stack software engineer with a strong interest in data science and embedded systems. I am currently a senior studying computer science at Stony Brook University.
 I love coding, but what drives me more than my love for writing code is my love for mentorship. I mentor women in technology while embracing learning as a mentee myself. Beyond tech, I own and lead Hands For Paws, a non-profit supporting dogs in Bangladesh. Let's connect and discuss tech, empowernment, and our canine friends!
 
 ### Navigation
@@ -33,10 +33,10 @@ I love coding, but what drives me more than my love for writing code is my love 
   - I developed a dashboard for Meraki Vision cameras, conducted statistical analysis, and analyzed large datasets. I also implemented debugging features on Meraki Vision cameras. During my time with Meraki, I was able to learn a lot about firmware development, embedded systems programming, and video streaming technology!
   [![Cisco](/assets/img/cisco-meraki-og-logo-655x655.jpg.avif)](https://meraki.cisco.com)
 ### IBM, Poughkeepsie, New York
-- Team: z/OS Support
 - **Position:** Client-Facing Software Engineer Intern/Co-op (May 2022 – Dec 2022)
+- Team: z/OS Support
   - I developed WebIPCS, a modern web application for debugging and modernizing legacy applications to support z/OS mainframes. I also created a support web-application which served as a "playlist" for z/OS debugging commmands.
-  [![IBM](/assets/img/IBM_logo.jpg_)](https://www.ibm.com/us-en)
+  [![IBM](/assets/img/IBM_logo.jpg)](https://www.ibm.com/us-en)
 
 ---
 ## 👩‍🏫 Mentorship/Education Experience
