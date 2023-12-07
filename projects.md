@@ -18,14 +18,14 @@
 # Commands Playlist - z/OS Debugging
 ## IBM
 - Built an internal tool for sharing important IPCS commands for z/OS debugging.
-[![z/OS](/assets/img/IBM_log.png)](https://www.ibm.com/docs/en/zos/2.2.0?topic=tools-customizing-ipcs-interface)
+[![z/OS](/assets/img/IBM_logo.jpg)](https://www.ibm.com/docs/en/zos/2.2.0?topic=tools-customizing-ipcs-interface)
 
 # WebIPCS - z/OS Debugging
 ## IBM
 - Used React.js/Redux, Node.js, JSON, Flask, CouchDB, and IBM Carbon Design Systems to develop both the
 frontend and backend of WebIPCS, a modern web application to ease debugging and modernize the existing legacy
 application IPCS.
-[![z/OS](/assets/img/IBM_System_z10.jpg)](https://www.ibm.com/products/zos)
+[![z/OS](/assets/img/IBM_logo.jpg)](https://www.ibm.com/products/zos)
 # Data Science Projects
 
 ## Miracle Herb Debunking Hypothesis Testing 
