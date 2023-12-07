@@ -4,9 +4,10 @@
 
 ### Vinyasa
 - Throughout college I often failed to prioritize meditation and self care, but one summer in West Palm Beach, FL, changed it all. I discovered the practice of Vinyasa yoga! Outside of being an Engineer, I would love to get my certification and improve my Vinyasa practice.
-[![Yoga](/assets/img/vinyasa.jpg)](https://oneflowyoga.com/blog/what-is-vinyasa-yoga)
+[![Yoga](/assets/img/yoga.jpg)](https://oneflowyoga.com/blog/what-is-vinyasa-yoga)
 
 ## Music
+
 - Mac Miller
 [![Mac](/assets/img/macmiller.png)](https://open.spotify.com/user/95qz5y17ui6kzz01xw3nigz16)
 - The Internet
