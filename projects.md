@@ -6,11 +6,6 @@
 - Enhanced error handling in camera systems and backend
 [![MV Cameras](/assets/img/MVCameras.png)](https://meraki.cisco.com/products/smart-cameras/)
 
-## Grafana Smart Codec Observability
-### Cisco Meraki
-- Developed a dashboard showcasing the impact of Smart Codec on video retention.
-[![MV Cameras](/assets/img/Grafana_logo.svg.png)](https://meraki.cisco.com/products/smart-cameras/)
-
 ## Fake Stack Overflow - A Full-stack Web Application
 ### Web Development
 - Created a Q&A web platform with user authentication and database management.

@@ -6,7 +6,8 @@ I love coding, but what drives me more than my love for writing code is my love 
 ### Navigation
 - [About Me](./aboutme.md)
 - [Resume](./resume.md)
-- [Projects](./projects.md)
+- [Full-Stack Projects](./projects.md)
+- [Data Science Projects](./dataScienceProjects.md)
 - [Volunteer Work](./volunteer.md)
 
 ---
