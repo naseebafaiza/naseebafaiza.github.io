@@ -4,12 +4,12 @@ Hi, welcome to my website! My name is Naseeba ('lucky' in Arabic) and I am origi
 I love coding, but what drives me more than my love for writing code is my love for mentorship. I mentor women in technology while embracing learning as a mentee myself. Beyond tech, I own and lead Hands For Paws, a non-profit supporting dogs in Bangladesh. Let's connect and discuss tech, empowernment, and our canine friends!
 
 ### Navigation
-[About Me](./aboutme.md)
-[Experience](./experience.md)
-[Resume](./resume.md)
-[Full-Stack Projects](./projects.md)
-[Data Science Projects](./dataScienceProjects.md)
-[Hands For Paws Dhaka](./volunteer.md)
+- [About Me](./aboutme.md)
+- [Experience](./experience.md)
+- [Resume](./resume.md)
+- [Full-Stack Projects](./projects.md)
+- [Data Science Projects](./dataScienceProjects.md)
+- [Hands For Paws Dhaka](./volunteer.md)
 
 ---
 
