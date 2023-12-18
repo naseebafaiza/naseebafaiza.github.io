@@ -4,6 +4,7 @@
 - Team: Video Systems
   - I developed a dashboard for Meraki Vision cameras, conducted statistical analysis, and analyzed large datasets. I also implemented debugging features on Meraki Vision cameras. During my time with Meraki, I was able to learn a lot about firmware development, embedded systems programming, and video streaming technology!
   [![Cisco](/assets/img/cisco-meraki-og-logo-655x655.jpg.avif)](https://meraki.cisco.com)
+  
 ### IBM, Poughkeepsie, New York
 - **Position:** Client-Facing Software Engineer Intern/Co-op (May 2022 – Dec 2022)
 - Team: z/OS Support
