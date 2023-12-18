@@ -22,28 +22,3 @@
 frontend and backend of WebIPCS, a modern web application to ease debugging and modernize the existing legacy
 application IPCS.
 [![z/OS](/assets/img/IBM_logo.jpg)](https://www.ibm.com/products/zos)
-
-
-# Data Science Projects
-
-
-## Miracle Herb Debunking Hypothesis Testing 
-### Statistical Inferences for Data Science
-- Interpreted statistical results, drawing conclusions about a herb's impact on height and its efficacy
-[![Hypothesis Testing](/assets/img/Htesting.png)](https://github.com/naseebafaiza/miracle-herb)
-
-
-# Technical Communications Projects
-
-
-## User Instructions
-### Learn Bernoulli Distribution with a simple example of texting your ex
-[![Bernoulli Distribution](/assets/img/Text.png)](https://github.com/naseebafaiza/naseebafaiza.github.io/raw/main/User_Instructions.pdf)
-
-## Collaborative Project
-### How can we improve the technology career fair at SBU?
-[![Career Fair Improvements](/assets/img/pie.png)](https://github.com/naseebafaiza/naseebafaiza.github.io/raw/main/Career_fair.pdf)
-
-## Press Release
-### SBU Pre-Optometry club
-[![Pre-Optometry](/assets/img/preopt.jpeg)](https://github.com/naseebafaiza/naseebafaiza.github.io/raw/main/press.pdf)

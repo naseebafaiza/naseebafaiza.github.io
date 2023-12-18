@@ -1,9 +1,14 @@
 # About Naseeba
 
+## My Book of the Year 2023
+
+The Defining Decade
+[![The Defining Decade](/assets/img/definingDecade.webp)](https://megjay.com/the-defining-decade/)
+
 ## Hobbies
 
 ### Vinyasa
-- Throughout college I often failed to prioritize meditation and self care, but one summer in West Palm Beach, FL, changed it all. I discovered the practice of Vinyasa yoga! Outside of being an Engineer, I would love to get my certification and improve my Vinyasa practice.
+Throughout college I often failed to prioritize meditation and self care, but one summer in West Palm Beach, FL, changed it all. I discovered the practice of Vinyasa yoga! Outside of being an Engineer, I would love to get my certification and improve my Vinyasa practice.
 [![Yoga](/assets/img/yoga.jpg)](https://oneflowyoga.com/blog/what-is-vinyasa-yoga)
 
 ## Music
