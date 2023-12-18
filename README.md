@@ -33,4 +33,5 @@ Bachelor of Science in Computer Science, Expected Graduation May 2024
 **Email:** [naseebafaiza@hotmail.com](mailto:naseebafaiza@hotmail.com)
 **LinkedIn:** [naseeba-faiza](https://www.linkedin.com/in/naseeba-faiza-bbb0871b0/)
 **GitHub:** [naseebafaiza](https://github.com/naseebafaiza)
+
 ---
