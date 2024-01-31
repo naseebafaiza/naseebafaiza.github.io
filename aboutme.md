@@ -8,7 +8,7 @@ The Defining Decade
 ## Hobbies
 
 ### Vinyasa
-Throughout college I often failed to prioritize meditation and self care, but one summer in West Palm Beach, FL, changed it all. I discovered the practice of Vinyasa yoga! Outside of being an Engineer, I would love to get my certification and improve my Vinyasa practice.
+Outside of being an Engineer, I would love to get my certification and improve my Vinyasa practice.
 [![Yoga](/assets/img/yoga.jpg)](https://oneflowyoga.com/blog/what-is-vinyasa-yoga)
 
 ## Music
