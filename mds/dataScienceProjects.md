@@ -18,7 +18,7 @@ This project aims to predict the CO2 emissions (CO2E) of various iPhone models u
 
 ## User Instructions
 ### Learn Bernoulli Distribution with a simple example of texting your ex
-[![Bernoulli Distribution](/assets/img/Text.png)](https://github.com/naseebafaiza/naseebafaiza.github.io/raw/main/User_Instructions.pdf)
+[![Bernoulli Distribution](/assets/img/Text.png)](https://github.com/naseebafaiza/naseebafaiza.github.io/raw/main/pdfs/User_Instructions.pdf)
 
 ## Police Fatality
 ### Stony Brook University
