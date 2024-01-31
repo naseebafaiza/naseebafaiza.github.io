@@ -19,3 +19,8 @@ This project aims to predict the CO2 emissions (CO2E) of various iPhone models u
 ## User Instructions
 ### Learn Bernoulli Distribution with a simple example of texting your ex
 [![Bernoulli Distribution](/assets/img/Text.png)](https://github.com/naseebafaiza/naseebafaiza.github.io/raw/main/User_Instructions.pdf)
+
+## Police Fatality
+### Stony Brook University
+Data analysis and machine learning to study fatal police shootings in the U.S., using data from multiple sources to explore state and city-level patterns, race distributions, and applies machine learning models to predict racial demographics of victims.
+[![SBU](/assets/img/SBU-logo.png)](https://github.com/naseebafaiza/policeFatality)
