@@ -1,6 +1,5 @@
 # Data Science Projects
 
-
 ## Miracle Herb Debunking Hypothesis Testing 
 ### Statistical Inferences for Data Science
 Interpreted statistical results, drawing conclusions about a herb's impact on height and its efficacy

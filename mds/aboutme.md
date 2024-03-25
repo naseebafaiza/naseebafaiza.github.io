@@ -8,7 +8,7 @@ The Defining Decade
 ## Hobbies
 
 ### Vinyasa
-Outside of being an Engineer, I would love to get my certification and improve my Vinyasa practice.
+Outside of being an Engineer, I would love to improve my Vinyasa practice get certified.
 [![Yoga](/assets/img/yoga.jpg)](https://oneflowyoga.com/blog/what-is-vinyasa-yoga)
 
 ## Music
@@ -18,11 +18,6 @@ Outside of being an Engineer, I would love to get my certification and improve m
 - The Internet
 [![Internet](/assets/img/internet.jpg)](https://open.spotify.com/user/95qz5y17ui6kzz01xw3nigz16)
 - Erykah Badu
-[![Erykah](/assets/img/erk.jpg)](https://open.spotify.com/user/95qz5y17ui6kzz01xw3nigz16)
-- Bad Bunny
-[![Benito](/assets/img/badbunny.webp)](https://open.spotify.com/user/95qz5y17ui6kzz01xw3nigz16)
-- Isaiah Reshad
-[![Isaiah](/assets/img/isr.jpg)](https://open.spotify.com/user/95qz5y17ui6kzz01xw3nigz16)
 
 ## Work Photos
 
@@ -36,9 +31,9 @@ Outside of being an Engineer, I would love to get my certification and improve m
 
 ## Family, Friends, and Pets
 
-### Family
-- This was so long ago
-[![fam](/assets/img/fam.JPG)](https://cats.com)
+### My dogs, Archer and Theo
+- Back when they were puppies
+[![dawgs](/assets/img/TheoArcher.JPG)](https://cats.com)
 
 ### Brunch in NY
 - On our way to Boston
@@ -48,11 +43,11 @@ Outside of being an Engineer, I would love to get my certification and improve m
 
 ### Premier League
 - Manchester United
-[![Utd](/assets/img/utd.png)](https://cats.com)
+[![Utd](/assets/img/utd.png)](https://www.manutd.com)
 
 ### NBA
 - Miami Heat
-[![MIA](/assets/img/MIA.png)](https://cats.com)
+[![MIA](/assets/img/MIA.png)](https://www.nba.com/heat)
 
 ### Bangladesh Cricket Team
-[![BD](/assets/img/cricket.jpg)](https://cats.com)
+[![BD](/assets/img/cricket.jpg)](https://www.facebook.com/bcbtigercricket/)
