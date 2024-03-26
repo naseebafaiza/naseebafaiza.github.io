@@ -22,13 +22,17 @@ Hi, welcome to my website! My name is Naseeba ('lucky' in Arabic) and I am origi
 ---
 
 ## 💻 Technical Skills
+
 - **Languages:** Java, Python, Lua, Javascript, C, Ruby, SQL, R Frameworks: React, IBM Carbon System
 - **CI/CD Tools:** Git, Github, Gerrit, Gitlab, Jenkins, Docker 
 - **Libraries:** JSON, HTML/CSS, JUnit, KNN, Matplotlib, SciKit, NumPy, Pandas Tools & Platforms: Jira, Postman, MongoDB, Lighttpd, Linux
 - **Methodologies:** Unit Testing, Data Analysis, Linear Regression, Machine Learning Algorithms, Data Visualization, Scrum, Agile Methodologies
+
 ---
 ## 📞 Contact Information
+
 - **Email:** [naseebafaiza@hotmail.com](mailto:naseebafaiza@hotmail.com)
 - **LinkedIn:** [naseeba-faiza](https://www.linkedin.com/in/naseeba-faiza-bbb0871b0/)
 - **GitHub:** [naseebafaiza](https://github.com/naseebafaiza)
+
 ---
